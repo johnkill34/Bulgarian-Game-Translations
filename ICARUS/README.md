@@ -17,14 +17,14 @@
 
 ## 📥 Изтегляне
 
-**[Издания и файлове — GitHub Releases](https://github.com/johnkill34/Bulgarian-Game-Translations/releases)**
+**[ICARUS — Български превод v1.0 — изтегляне](https://github.com/johnkill34/Bulgarian-Game-Translations/releases/tag/icarus-bg-v1.0)**
 
-За ICARUS ще бъдат предоставени два варианта на един и същ инсталатор:
+Публикувани са два варианта на един и същ инсталатор:
 
 | Файл | Начин на използване |
 |---|---|
-| `ICARUS_BG_Setup.exe` | Стартирайте директно в Windows. |
-| `ICARUS_BG_Setup.zip` | Разархивирайте и стартирайте включения `ICARUS_BG_Setup.exe`. |
+| [ICARUS_BG_Setup.exe](https://github.com/johnkill34/Bulgarian-Game-Translations/releases/download/icarus-bg-v1.0/ICARUS_BG_Setup.exe) | Стартирайте директно в Windows. |
+| [ICARUS_BG_Setup.zip](https://github.com/johnkill34/Bulgarian-Game-Translations/releases/download/icarus-bg-v1.0/ICARUS_BG_Setup.zip) | Разархивирайте и стартирайте включения `ICARUS_BG_Setup.exe`. |
 
 **Не е нужно да изтегляте и двата файла.** Не използвайте бутона **Code → Download ZIP** като заместител на инсталатора.
 
@@ -33,9 +33,9 @@
 1. Затворете ICARUS.
 2. Изтеглете `ICARUS_BG_Setup.exe` от изданието или го извлечете от ZIP.
 3. Стартирайте инсталатора.
-4. Програмата ще потърси играта автоматично. Ако не я открие, посочете папката на ICARUS чрез **Browse / Избери папка**.
+4. Програмата ще потърси играта автоматично. Ако не я открие, посочете папката на ICARUS чрез **Избор…**.
 5. Натиснете **Инсталирай**. Инсталаторът проверява съвместимостта и копира българския мод в правилната директория.
-6. Стартирайте играта и проверете българските текстове.
+6. Стартирайте играта с избран език **English** и проверете българските текстове.
 
 **Steam не е необходим.** Програмата поддържа локални инсталации и не изисква Python, мод мениджър или отделно инсталиран .NET.
 
