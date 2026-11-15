@@ -1,6 +1,6 @@
 # 🇧🇬 Български преводи на игри | johnkill34
 
-### Football Manager 27 • Europa Universalis IV • Още проекти предстоят
+### Football Manager 27 • Europa Universalis IV • ICARUS
 
 Добре дошли в **Bulgarian Game Translations** — общностен проект на **johnkill34**, посветен на българските преводи на компютърни игри. Целта е повече играчи да се наслаждават на любимите си заглавия с разбираеми менюта, естествена футболна и историческа терминология и удобни инструкции за инсталация.
 
@@ -10,6 +10,7 @@
 |---|---|---|
 | **Football Manager 27** | [Български превод, снимки и инсталация](Football-Manager-27/README.md) | 🛠️ Активна редакция и тестове |
 | **Europa Universalis IV** | [Основен (Ironman) и Extended — Steam Workshop, инструкции](Europa-Universalis-IV/README.md) | ✅ Публикувани Steam модове |
+| **ICARUS** | [Български превод v1.0 — инсталатор и инструкции](ICARUS/README.md) | ✅ Първа версия v1.0 |
 
 ## 🏆 Football Manager 27 — голям български локализационен проект
 
