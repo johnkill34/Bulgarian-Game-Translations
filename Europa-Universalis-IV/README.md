@@ -14,7 +14,7 @@ Europa Universalis IV е мащабна историческа стратеги�
 
 | | 🏆 Основен превод | 📜 Разширен превод — Extended |
 |---|---|---|
-| **Steam име** | [EU IV - Bulgarian Translation \| johnkill34](https://steamcommunity.com/sharedfiles/filedetails/?id=3826616275) | [EU IV - Bulgarian Translation Extended \| johnkill34](https://steamcommunity.com/workshop/browse/?appid=236850&searchtext=EU+IV+Bulgarian+Translation+Extended+johnkill34) |
+| **Steam име** | [EU IV - Bulgarian Translation \| johnkill34](https://steamcommunity.com/sharedfiles/filedetails/?id=3826616275) | [EU IV - Bulgarian Translation Extended \| johnkill34](https://steamcommunity.com/sharedfiles/filedetails/?id=3830951683) |
 | **Предназначение** | Основен български интерфейс и игрови текстове | Допълнителна локализация на географски, исторически и други названия |
 | **Ironman** | ✅ Предназначен за Ironman | ❌ Не е съвместим с Ironman |
 | **Steam постижения** | Съхраняват се, ако всички други условия за постижения са изпълнени | Не се гарантират |
@@ -36,7 +36,7 @@ Europa Universalis IV е мащабна историческа стратеги�
 
 ### 📜 2. Extended — разширена локализация
 
-**[ОТВОРИ EXTENDED В STEAM WORKSHOP — търсене по точното име](https://steamcommunity.com/workshop/browse/?appid=236850&searchtext=EU+IV+Bulgarian+Translation+Extended+johnkill34)**
+**[ОТВОРИ EXTENDED В STEAM WORKSHOP](https://steamcommunity.com/sharedfiles/filedetails/?id=3830951683)**
 
 Разширеният вариант допълва основния превод с повече исторически и географски наименования, включително провинции, местности и допълнителни текстове, според поддържаните файлове на мода.
 
@@ -56,7 +56,7 @@ Europa Universalis IV е мащабна историческа стратеги�
 6. В езиковите настройки на играта оставете **English** — модът заменя показваните текстове с български.
 7. Стартирайте играта.
 
-**За Extended:** отворете [разширения превод в Steam Workshop](https://steamcommunity.com/workshop/browse/?appid=236850&searchtext=EU+IV+Bulgarian+Translation+Extended+johnkill34), абонирайте се за него и активирайте **и двата** в един Playset. Използвайте този вариант за стандартна игра, **не за Ironman**.
+**За Extended:** отворете [разширения превод в Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3830951683), абонирайте се за него и активирайте **и двата** в един Playset. Използвайте този вариант за стандартна игра, **не за Ironman**.
 
 ### Ако преводът не се появява
 
